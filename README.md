@@ -1,6 +1,6 @@
 # Hi there 
 
-I'm a **Data Scientist** with a robust background in **Artificial Intelligence** and **Machine Learning**. I specialize in predictive modeling and data visualization, transforming data into actionable insights. With a deep understanding of machine learning algorithms and neural networks, I develop models that can make accurate predictions and uncover hidden patterns in data.
+I'm a **AI Scientist** with a robust background in **Artificial Intelligence** and **Machine Learning**. I specialize in predictive modeling and data visualization, transforming data into actionable insights. With a deep understanding of machine learning algorithms and neural networks, I develop models that can make accurate predictions and uncover hidden patterns in data.
 
 My current research focuses on Explainable AI (XAI), which aims to make AI models more transparent and understandable to humans. By enhancing the interpretability of AI systems, I strive to build trust and facilitate their integration into real-world applications.
 
